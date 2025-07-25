@@ -645,7 +645,7 @@ header {
 }
 
 .info-value {
-    font-size: clamp(0.95rem, 2.5vw, 1.1rem);
+    font-size: 0.9rem;
     color: var(--dark);
     font-weight: 600;
     line-height: 1.4;
